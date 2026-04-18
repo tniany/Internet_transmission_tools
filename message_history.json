@@ -1,0 +1,11 @@
+[
+  {
+    "sender": "设备_775",
+    "sender_ip": "127.0.0.1",
+    "client_id": "cfac7b90-2f66-4713-8a25-19ce12de42b6",
+    "message": "111",
+    "timestamp": "2026-04-18T20:25:12.265453",
+    "type": "text",
+    "message_id": "22cc72fd-239f-4952-84a8-af2d61e55805"
+  }
+]
