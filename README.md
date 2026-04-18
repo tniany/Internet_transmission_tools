@@ -10,6 +10,8 @@
 ![GitHub license](https://img.shields.io/github/license/你的用户名/浅月不息-局域网互传)
 
 <p>一个简单高效的局域网文件传输工具，支持所有格式文件的上传下载，无大小限制，并提供实时进度显示。</p>
+<img width="1265" height="893" alt="image" src="https://github.com/user-attachments/assets/66416de2-24f2-4d19-97d0-3719b74cf654" />
+
 
 <br />
 
