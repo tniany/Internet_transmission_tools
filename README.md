@@ -1,6 +1,6 @@
 <center><h1>浅月不息 - 局域网互传工具</h1></center>
 
-[![Stars](https://count.getloli.com/@tniay-flad-2?name=tniay-flad-2\&theme=random\&padding=7\&offset=0\&align=top\&scale=1\&pixelated=1\&darkmode=auto)](https://github.com/tniay-flad-2)
+[![Stars](https://count.getloli.com/@tniay-flad-2?name=tniay-flad-2\&theme=asoul\&padding=7\&offset=0\&align=top\&scale=1\&pixelated=1\&darkmode=auto)](https://github.com/tniay-flad-2)
 
 <br />
 
@@ -10,8 +10,6 @@
 ![GitHub license](https://img.shields.io/github/license/你的用户名/浅月不息-局域网互传)
 
 <p>一个简单高效的局域网文件传输工具，支持所有格式文件的上传下载，无大小限制，并提供实时进度显示。</p>
-<img width="1265" height="893" alt="image" src="https://github.com/user-attachments/assets/f6bbf4df-fcc5-4cc7-ae78-44f03a60d728" />
-
 
 <br />
 
